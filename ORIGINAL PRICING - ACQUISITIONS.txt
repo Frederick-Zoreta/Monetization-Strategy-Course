@@ -1,0 +1,47 @@
+Acquisiotions Team Project 
+
+
+Learners that start invitation flow = % of learners that start invitation flow * Total Customers 
+
+Invitation flow completed = Learners that start invitation flow * invitation flow completion rate
+
+# invitations per inviter =  Invitation flow completed * # invitations per inviter 
+
+Recipients that open invitation = # invitations per inviter * % that opens the invitations
+
+Recipients that click invitations = Recipients that open invitation * % Recipients that clicks the invitations
+
+Recipients that finish the signup flow = Recipients that click invitations * % Recipients that finish the signup flow
+
+
+
+BASIC: Recipients that finish the signup flow * Basic % (80%)
+PRO: Recipients that finish the signup flow * Pro % (18%)
+PREMIUM : Recipients that finish the signup flow * Premium % (2%)
+
+
+
+
+Acquisition Paid Refferal
+
+% Learners that start invitation flow = % learners that start invitation flow * Combined Total (Upgrades and Non Paying)
+
+Invitation flow completion rate = % learners that start invitation flow * invitation flow completion rate
+
+# Invitation per inviter = invitation flow completion rate * # of invitations per inviter 
+
+% Recipients that open the invitation = # Invitation per inviter * % of recipients that open the invitation
+
+% Recipients that click the invitation = % Recipients that open the invitation * % recipients that click the invitation
+
+% Recipients that finish the signup flow = % Recipients that click the invitation * % Recipients that finish the signup flow
+
+
+BASIC: 
+% Recipients that finish the signup flow * Basic (80%)
+
+PRO:
+% Recipients that finish the signup flow * pRO (18 %)
+
+PREMIUM:
+% Recipients that finish the signup flow * Premium (2 %)
