@@ -1,0 +1,80 @@
+1. Acquisition Team Project :
+
+Multiplying the % of learners that starts the invitation flow by Total # of Learners(row 3) BY Total Customers  (row 221)
+
+Formula (% learners that starts the invitation flow) Row 3 X Total Customers ( row 221)
+
+How Total Customers are derived: 
+
+Sum of 222 to 224 
+
+Sum of Basic + Professional + Premium 
+
+Derivations
+Invitation Flow completed: Invitation Flow Completion Rate * Learners that starts invitation Flow 
+
+# Invitations per inviter : Invitation Flow completed * # of invitations pe rinviter 
+
+Recipients that open the invitation : # Invitations per inviter * % Recipients that open the invitation 
+
+Recipients that finish the signup flow: Recipients that open the invitation * % Recipients that finish the signup flow
+
+BASIC: 
+Recipients that finish the signup flow * Basic % (80%)
+
+Pro:
+Recipients that finish the signup flow * Pro % (18%)
+
+Premium:
+Recipients that finish the signup flow * Premium % (2%)
+
+
+
+2. Acquisition Paid Referral :
+
+% learners that starts the invitation flow = % learners that starts the invitation flow * Combined Total of Non=Paying + Upgrades
+
+invitation flow completion rate = % learners that starts the invitation flow * invitation flow completion rate
+
+# Invitation per inviter = invitation flow completion rate * # of invitations per inviter 
+
+% Recipients that open the invitation = # Invitation per inviter * % of recipients that open the invitation
+
+% Recipients that click the invitation = % Recipients that open the invitation * % recipients that click the invitation
+
+% Recipients that finish the signup flow = % Recipients that click the invitation * % Recipients that finish the signup flow
+
+
+BASIC: 
+% Recipients that finish the signup flow * Basic (80%)
+
+PRO:
+% Recipients that finish the signup flow * pRO (18 %)
+
+PREMIUM:
+% Recipients that finish the signup flow * Premium (2 %)
+
+
+
+Acquisition - Paid Search 
+
+Clicks Purchased = Rounded off (Total Ad Budget / Costs Per Click)
+Impressions = Clicks Purchased / Ad CTR on Google 
+Signup Start = Clicks Purchased * % Landing Page Visitors that start signup flow 
+SIgnup Complete = Signup start * % Landing Page Visitors that complete the signup flow 
+
+FREE:
+ROUNDED OFF (SIGNUP COMPLETE * FREE (65%) )
+
+BASIC:
+ROUNDED OFF (SIGNUP COMPLETE * BASIC (25%) ) 
+
+PRO:
+ROUNDED OFF (SIGNUP COMPLETE * PRO (9%) )
+
+PREMIUM:
+ROUNDED OFF (SIGNUP COMPLETE * PREMIUM (1%) )
+
+
+
+
